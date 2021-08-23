@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieDisplay</string>
+    <string name="img_description">Shows the images from movies</string>
+    <string name="api_key">8ba2567d9eec6178ec48a47c31a5ba53</string>
+</resources>
